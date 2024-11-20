@@ -1,0 +1,10 @@
+	['uvlight'] = {
+		label = 'UV Light',
+		weight = 95,
+		stack = false
+	},
+	['bleachwipes'] = {
+		label = 'Bleach Wipes',
+		weight = 185,
+		stack = true
+	},
